@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kevin Kili
-- 👀 I’m interested in Web and App Development
-- 🌱 I’m currently learning Flutter
+- 👀 I’m a Cyber Security Analyst
+- 🌱 I’m currently learning Baselines & Anomalies
 - 📫 How to reach me <email>kilikevin221@gmail.com</email>
 
 <!---
